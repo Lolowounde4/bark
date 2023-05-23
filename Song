@@ -1,0 +1,7 @@
+text_prompt = """
+
+    ♪ In the jungle, the mighty jungle, the lion barks tonight ♪
+
+"""
+
+audio_array = generate_audio(text_prompt)
